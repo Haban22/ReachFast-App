@@ -1,4 +1,4 @@
-# Reach Fast APP
+# Reach Fast App
 
 Mobile Application Development DEPI Final Project.
 
